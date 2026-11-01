@@ -79,7 +79,7 @@ Exploring databases and writing SQL queries.
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: linkedin.com/in/priyasingh
-- 🐙 GitHub: [@priyasinghbh](https://github.com/priyasinghbh)
+- 🐙 GitHub: [@priyasinghbh](https://github.com/priyasinghhhhhh
 
 ---
 
